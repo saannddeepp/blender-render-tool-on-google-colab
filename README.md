@@ -10,4 +10,3 @@ Run the script
 When to time comes to verify the google drive, click on the link provided and mount the google drive using the auth code
 Change the name of the file as per your file in the code
 Render and Enjoy
-
